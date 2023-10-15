@@ -4,7 +4,7 @@ Intentando correr code-server en mi Raspberry Pi 4b
 
 ## Requisitos
 
-* NodeJS
+* NodeJS 18
 * npm
 * Dependencias code-server
 
