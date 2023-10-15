@@ -1,2 +1,3 @@
-# code-server-rpi
-code-server para Raspberry PI
+# code-server en Raspberry PI
+
+Intentando correr code-server en mi Raspberry Pi 4b
